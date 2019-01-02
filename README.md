@@ -1,3 +1,1 @@
 # Dlite
-
-Dlite cakery
